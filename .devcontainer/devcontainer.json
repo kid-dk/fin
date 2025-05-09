@@ -1,0 +1,24 @@
+{
+  "name": "MOBO",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",            // Python support
+        "ms-toolsai.jupyter",          // Jupyter Notebooks
+        "ms-toolsai.jupyter-keymap",   // Jupyter key bindings
+        "ms-toolsai.jupyter-renderers",// Jupyter renderers for plots
+        "ms-vscode-remote.remote-containers", // Remote Containers
+        "esbenp.prettier-vscode",      // Prettier for code formatting
+        "ms-toolsai.data-wrangler"     // Data Wrangler for data analysis
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python3",
+        "jupyter.jupyterServerType": "local"
+      }
+    }
+  },
+  "workspaceFolder": "/home"
+}

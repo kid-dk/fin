@@ -1,0 +1,15 @@
+numpy==2.0.0
+matplotlib==3.9.2
+pandas==2.2.3
+openpyxl==3.1.5
+scikit-learn==1.6.1
+seaborn==0.13.2
+scikit-optimize==0.10.2
+botorch==0.13
+torch==2.5.1+cpu
+torchvision==0.20.1+cpu
+gpytorch==1.14
+linear_operator==0.6
+pyro-ppl==1.8.4
+scipy==1.15.2
+ipykernel
