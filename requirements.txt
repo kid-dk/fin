@@ -13,3 +13,4 @@ linear_operator==0.6
 pyro-ppl==1.8.4
 scipy==1.15.2
 ipykernel
+jupyter
