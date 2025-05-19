@@ -14,3 +14,4 @@ pyro-ppl==1.8.4
 scipy==1.15.2
 ipykernel
 jupyter
+plotly==6.1.0
